@@ -8,4 +8,4 @@ An online demo system is available [here](http://napeasy.org/prui/).
 ![](https://github.com/CogStack/CogStack-TR/blob/master/assets/Screen%20Shot%202017-09-23%20at%2010.55.53.png?raw=true)
 
 ## Acknowledgement
-The project is built on top of [GlowingBear](https://github.com/thehyve/glowing-bear) and is a collaboration with colleagus from [thehyve.nl](http://thehyve.nl/).
+The project is built on top of [GlowingBear](https://github.com/thehyve/glowing-bear) and is a collaboration with colleagues from [thehyve.nl](http://thehyve.nl/).
