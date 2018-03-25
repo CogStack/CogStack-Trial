@@ -1,4 +1,4 @@
-# CogStack-TR
+# CogStack-Trial
 A browser based GUI to support patient recruitments by utilising CogStack and SemEHR functionalities. CogStack-TR is designed to enable:
 - easy and automated construction of inclusion/exclusion queries based on textural trial specifications
 - efficient and accurate matching of patients based on both structured and unstructured EHR records
