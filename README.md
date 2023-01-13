@@ -1,3 +1,6 @@
+# Archived
+This repo is no longer maintained. For more information related to tooling for building patient cohorts email [contact@cogstack.org](mailto:contact@cogstack.org), to find out how we're building patient cohort tools utilising [CogStack-Nifi](https://github.com/CogStack/CogStack-NiFi/) deployments and [MedCAT](https://github.com/CogStack/MedCAT) extracted clinical terms.
+
 # CogStack-Trial
 A browser based GUI to support patient recruitments by utilising CogStack and SemEHR functionalities. CogStack-TR is designed to enable:
 - easy and automated construction of inclusion/exclusion queries based on textural trial specifications
